@@ -16,7 +16,7 @@ const memories = [
     id: 0,
     title: "Mehr Chadha Ka Ghar",
     description: "Ahh yes cuddling through a horror movie because we're just friends and you're scared",
-    image: "/shit.jpg?height=400&width=600",
+    image: "/shit.JPG?height=400&width=600",
     color: "lightblue",
   },
   {
@@ -30,7 +30,7 @@ const memories = [
     id: 2,
     title: "Class 10 Boards Over",
     description: "One of my favourite dates of ours, very peaceful very cool",
-    image: "/snickers.jpg?height=400&width=600",
+    image: "/snickers.JPG?height=400&width=600",
      color: "orange",
   },
   {
